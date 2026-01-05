@@ -1,0 +1,12 @@
+// Hello_World.c
+
+// BASICS
+
+#include <stdio.h>
+int main() {
+    // Print Hello, World!
+    printf("Hello, World!");
+    printf("\nhello world program\n");
+
+    return 0;
+}
